@@ -15,7 +15,7 @@ pipeline {
         }
         stage('Checkout from Git') {
             steps {
-                git branch: 'master', url: 'https://github.com/Rineeth-R/Netflix-Devsecops-project.git'
+                git branch: 'master', url: 'https://github.com/Rineeth-R/DevSecOps-Netflix-Project.git'
             }
         }
         stage("Sonarqube Analysis") {
