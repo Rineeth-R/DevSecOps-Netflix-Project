@@ -1,6 +1,7 @@
 **DevSecOps Project - Netflix Clone on cloud using Jenkins**
 
-![Screenshot 2025-06-14 094417](https://github.com/user-attachments/assets/9385b9aa-cbe9-4731-b748-4883dd96ef5c)
+![Screenshot 2025-06-14 094417](https://github.com/user-attachments/assets/183b0d6d-3957-476d-a2dc-ba66577beacb)
+
 
 
 **Project Overview:**
@@ -86,33 +87,38 @@ Configured Prometheus AlertManager to notify on system anomalies.
 
 **Jenkins passed :-**
 
-![Screenshot 2025-02-27 213928](https://github.com/user-attachments/assets/3adb6a13-9eae-4c4d-a639-12e760f62367)
+![Screenshot 2025-02-27 213928](https://github.com/user-attachments/assets/9d0d26cc-bfc1-4113-b703-21d05cc776ce)
 
-![Screenshot 2025-02-27 214128](https://github.com/user-attachments/assets/45fc4aec-40c3-40c6-b2c8-b798e7dd9041)
+
+![Screenshot 2025-02-27 214128](https://github.com/user-attachments/assets/046e6606-2089-41e9-a840-a8b617221219)
+
 
 
 
 **SonarQube passed :-**
 
-![Screenshot 2025-02-27 214858](https://github.com/user-attachments/assets/e46175d7-d986-4e5e-8654-c7941bdbd52f)
+![Screenshot 2025-02-27 214858](https://github.com/user-attachments/assets/6ebf11ca-e98f-4463-9304-96a0f7d0e615)
+
 
 
 
 
 **ARGOCD SYNCED :-**
 
-![Screenshot 2025-02-27 214731](https://github.com/user-attachments/assets/3f797d58-7d46-4570-9d81-5bb55c0c3890)
+![Screenshot 2025-02-27 214731](https://github.com/user-attachments/assets/d2306cf3-9caa-4ad8-8f69-50ee4de03c37)
 
 
 
 
 **PROMETHEUS :-**
 
-![Screenshot 2025-02-27 215224](https://github.com/user-attachments/assets/75e05b9d-8c12-48ab-85ae-8aeb3d356b7b)
+![Screenshot 2025-02-27 215224](https://github.com/user-attachments/assets/b8b9f988-dc83-4c36-a1ca-67836aa2acf9)
+
 
 
 **NETFLIX PAGE :-**
 
-![Screenshot 2025-02-27 215057](https://github.com/user-attachments/assets/02d4b44c-8928-4bc4-ae80-48ce7cc15d4e)
+![Screenshot 2025-02-27 215057](https://github.com/user-attachments/assets/38086f9b-3bcd-4976-8023-b56cc3304a12)
+
 
 
